@@ -125,7 +125,7 @@ public class LinearEquation {
 
 
         return "The two points are: (" + x1 + ", " + y1 + ") and (" + x2 + ", " + y2 + ")\n" +
-                "The equation of the line between these points is: y = " + slopeStr + "x" + yInterceptStr + "\n" +
+                "The equation of the line is: y = " + slopeStr + "x" + yInterceptStr + "\n" +
                 "The y-intercept of the line is: " + yIntercept + "\n" +
                 "The slope of the line is: " + slopeStr + "\n" +
                 "The distance between the points is: " + distance;
